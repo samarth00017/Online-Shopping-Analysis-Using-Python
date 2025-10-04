@@ -1,2 +1,2 @@
 # Online-Shopping-Analysis-Using-Python
-Navigating The Future of Online Shopping: Dataset Exploration Using Python. 
+Navigating The Future of Online Shopping: Dataset Exploration Using Python. Extract fundamental insights from the dataset. list all unique cities where customers are located. Count the number of orders placed in 2017. Find the total sales for category. Calculate the percentage of orders that were paid in installments. Count the number of customers from each state.
